@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>ICB MOD - គណនា 74 ម៉ោង</title>
+  <title>ICB MOD - Store </title>
   <style>
     :root {
       --cyan: #00ffff;
@@ -124,7 +124,7 @@
   </a>
 </div>
 
-<h1>🕒 ICB MOD - គណនា 74 ម៉ោង 🕒</h1>
+<h1> ICB MOD - Store</h1>
 
 <div class="container">
   <label>បញ្ចូលថ្ងៃ និងម៉ោងចាប់ផ្តើម:</label><br>
