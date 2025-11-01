@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>ICB MOD - Store</title>
+  <title>ICB MOD - គណនា 74 ម៉ោង</title>
   <style>
     :root {
       --cyan: #00ffff;
@@ -117,14 +117,14 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Facebook_Logo.png" alt="Facebook">
   </a>
   <a href="https://www.youtube.com/@CIB-q8x" target="_blank" style="background:#ff0000;">
-    <img src="E1EA9586-1EA6-4EA1-8A56-88375EB8F629.jpeg" alt="YouTube">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" alt="YouTube">
   </a>
   <a href="https://t.me/vanndavt" target="_blank" style="background:#33bdf8;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram">
   </a>
 </div>
 
-<h1> ICB MOD - Store </h1>
+<h1>🕒 ICB MOD - គណនា 74 ម៉ោង 🕒</h1>
 
 <div class="container">
   <label>បញ្ចូលថ្ងៃ និងម៉ោងចាប់ផ្តើម:</label><br>
@@ -133,16 +133,20 @@
   <div id="resultBox" style="margin-top:10px; display:none; color:#00ffff; font-weight:bold;"></div>
 </div>
 
-<!-- Store Sections -->
-<div class="section"><div class="panel">GTA<br>San Andreas</div><div class="section-text">Apple ID GTA SA</div><a href="https://t.me/vanndavt"><button class="buy-btn">Buy</button></a></div>
+<!-- ផ្នែកផ្ទាំងខ្មៅថ្មីសម្រាប់ UDID -->
+<div class="section">
+  <div class="panel">UDID</div>
+  <div class="section-text">UDID Profile Install</div>
+  <a href="https://udid.tech" target="_blank"><button class="buy-btn">Open</button></a>
+</div>
+
+<!-- ផ្នែកដើមៗ -->
+<div class="section"><div class="panel">GTA San Andreas</div><div class="section-text">Apple ID GTA SA</div><a href="https://t.me/vanndavt"><button class="buy-btn">Buy</button></a></div>
 <div class="section"><div class="panel">Minecraft</div><div class="section-text">Apple ID Minecraft</div><a href="https://t.me/vanndavt"><button class="buy-btn">Buy</button></a></div>
 <div class="section"><div class="panel">E-Sign</div><div class="section-text">App E-Sign</div><a href="https://t.me/vanndavt"><button class="buy-btn">Buy</button></a></div>
 <div class="section"><div class="panel">MOD Free Fire</div><div class="section-text">Free Fire Hack Mod</div><a href="https://t.me/vanndavt"><button class="buy-btn">Buy</button></a></div>
 <div class="section"><div class="panel">MOD Mobile Legend</div><div class="section-text">Mobile Legend Hack Mod</div><a href="https://t.me/vanndavt"><button class="buy-btn">Buy</button></a></div>
-<div class="section"><div class="panel">MOD 8Ball Pool</div><div class="section-text">Pool Hack Account</div><a href="https://t.me/vanndavt"><button class="buy-btn">Buy</button></a></div>
 <div class="section"><div class="panel">MOD PUBG</div><div class="section-text">PUBG Mobile Mod</div><a href="https://t.me/vanndavt"><button class="buy-btn">Buy</button></a></div>
-<div class="section"><div class="panel">Apple ID Shadowrocket</div><div class="section-text">iOS VPN App Access</div><a href="https://t.me/vanndavt"><button class="buy-btn">Buy</button></a></div>
-<div class="section"><div class="panel">Acc Telegram KH</div><div class="section-text">Telegram Account Access</div><a href="https://t.me/vanndavt"><button class="buy-btn">Buy</button></a></div>
 
 <script>
 function calculate(){
@@ -150,7 +154,6 @@ function calculate(){
   const box=document.getElementById("resultBox");
   if(!input){box.style.display="block";box.innerHTML="⚠️ សូមបញ្ចូលថ្ងៃ និងម៉ោងមុន!";return;}
   const start=new Date(input);
-  // 74 hours instead of 72
   const end=new Date(start.getTime()+74*60*60*1000);
   const days=["អាទិត្យ","ចន្ទ","អង្គារ","ពុធ","ព្រហស្បតិ៍","សុក្រ","សៅរ៍"];
   const months=["មករា","កម្ភៈ","មិនា","មេសា","ឧសភា","មិថុនា","កក្កដា","សីហា","កញ្ញា","តុលា","វិច្ឆិកា","ធ្នូ"];
