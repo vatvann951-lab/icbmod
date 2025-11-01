@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>ICB MOD - Store </title>
+  <title>ICB MOD - Store</title>
   <style>
     :root {
       --cyan: #00ffff;
@@ -124,12 +124,12 @@
   </a>
 </div>
 
-<h1> ICB MOD - Store</h1>
+<h1>🕒 ICB MOD - Store</h1>
 
 <div class="container">
-  <label>បញ្ចូលថ្ងៃ និងម៉ោងចាប់ផ្តើម:</label><br>
+  <label>បញ្ចូលថ្ងៃ លោកអ្នកបានទិញ:</label><br>
   <input id="startTime" type="datetime-local"><br>
-  <button class="calc-btn" onclick="calculate()">គណនា</button>
+  <button class="calc-btn" onclick="calculate()">ចុចទីនេះ</button>
   <div id="resultBox" style="margin-top:10px; display:none; color:#00ffff; font-weight:bold;"></div>
 </div>
 
